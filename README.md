@@ -244,3 +244,15 @@ Through this project, I gained practical understanding of:
 **Dataset:** MNIST
 
 **Final Test Accuracy:** 90.62%
+
+## 📊 Training Loss
+
+![Training Loss](screenshots/loss_graph.png)
+
+## 📈 Training Accuracy
+
+![Training Accuracy](screenshots/accuracy_graph.png)
+
+## 🔢 Predictions
+
+![Predictions](screenshots/predictions.png)
